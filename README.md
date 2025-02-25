@@ -1,6 +1,3 @@
-#Food-Ordering-App
-#The "Food Ordering App" Project was built with Python as part of my First Semester Exam With Altschool Africa.
-
 def display_menu():
     """
     Description: Prints the menu options for the food items available in the ordering app.
@@ -41,16 +38,14 @@ def get_user_choice():
             print('Invalid choice. Please enter a number between 1 and 4.')
 
 def get_quantity():
-    """
-    Description: Takes user input to get the quantity of the selected food item.
+    """Description: Takes user input to get the quantity of the selected food item.
                  and ensures the input is a positive integer.
 
                  If the input is not an integer return the error 
                  'Invalid input. Please enter a valid number.' 
                  
                  If the input is a negative integer or zero return the error
-                 'Quantity must be greater than 0.'
-    """
+                 'Quantity must be greater than 0.'"""
     # YOUR CODE HERE
     while True:
         user_input = input("Enter quantity: ")
