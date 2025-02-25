@@ -1,7 +1,3 @@
-Food Ordering App
-
-The "Food Ordering App" Project was built with Python as part of my First Semester Exam With Altschool Africa - 2025.
-
 def display_menu():
     """
     Description: Prints the menu options for the food items available in the ordering app.
