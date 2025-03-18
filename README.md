@@ -1,4 +1,5 @@
- About the Project
+About the Project
+
 The goal was to create a simple yet functional app for a food vendor, allowing users to:
 
 Browse a menu (Pizza 🍕, Burger 🍔, Noodles 🍜).
